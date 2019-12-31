@@ -1,9 +1,7 @@
 """
-
-Test
 Sample Python/Pygame based control using keyboard 
 Yolabs Robotics/Programming Classes
-https://yolabs.in/
+https://yolabs.in/ changed 
 """
 #>>>>>>>>>>>>>>>>> import gpio, time, pygame and picamera
 import RPi.GPIO as GPIO
